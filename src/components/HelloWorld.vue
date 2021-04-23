@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <h1>Name: Micheal Adisa</h1>
     <h1>{{ msg }}</h1>
     <h2>Working with external libraries in Vue - Bootstrap</h2>
     <button type="button" class="btn btn-primary">Primary</button>
